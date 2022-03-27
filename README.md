@@ -17,9 +17,14 @@ The  analysis on the congressional election shows, that:
 - There were 369,711 votes cast in the election. 
 - The voter turnout for each county was:
     - Jefferson:
-        - Percentage 10.5% (38,855)
-    - Denver: 82.8% (306,055)
-    - Arapahoe: 6.7% (24,801) 
+        - Percentage:   10.5% 
+        - Total Votes:  38,855
+    - Denver
+        - Percentage:   82.8% 
+        - Total Votes:  306,055
+    - Arapahoe:
+        - Percentage:   6.7% 
+        - Total Votes:  24,801 
     
 
 - The candidates were:
