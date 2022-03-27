@@ -13,8 +13,8 @@ The Colorado Board of Elections has assigned the task to complete an election au
 - Software: Python 3.10.3, Visual Studio Code 1.65.2
 
 ## Election Audit Results
-The  analysis on the congressional election shows, that:
-- There were 369,711 votes cast in the election. 
+The following information has been gathered from conducting the analysis on the congressional election:
+- Total votes cast:     369,711 
 - The voter turnout for each county was:
     - Jefferson:
         - Percentage:   10.5% 
@@ -25,14 +25,12 @@ The  analysis on the congressional election shows, that:
     - Arapahoe:
         - Percentage:   6.7% 
         - Total Votes:  24,801 
-    
-
+- The county with the largest number of votes: Denver
 - The candidates were:
     - Charles Casper Stockham: 23.0% (85,213)
     - Diana DeGette: 73.8% (272,892)
     - Raymon Anthony Doane: 3.1% (11,606)
-- Breakdown of the number of votes and the percentage of total votes for each county in the precinct
-    - 
+
 - County with largest number of votes: Denver
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
