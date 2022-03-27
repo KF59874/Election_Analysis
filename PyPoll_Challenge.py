@@ -85,7 +85,7 @@ with open(file_to_save, "w") as txt_file:
         f"\nElection Results\n"
         f"-------------------------\n"
         f"Total Votes: {total_votes:,}\n"
-        f"-------------------------\n\n"
+        f"-------------------------\n"
         f"County Votes:\n")
     print(election_results, end="")
 
@@ -115,7 +115,7 @@ with open(file_to_save, "w") as txt_file:
     largest_county_summary = (
         f"-------------------------\n"
         f"Largest County Turnout: {largest_county}\n"
-        f"-------------------------\n\n")
+        f"-------------------------\n")
     print(largest_county_summary)
 
     # 8: Save the county with the largest turnout to a text file.
