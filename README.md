@@ -49,6 +49,18 @@ Please see below for a snapshot of the congressional election results. The text 
 
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-The election analysis included voter turnout by county with candidates results. Analysing the data by county and by candidate was a great addition, seeing as it provided a more detailed insight on the voters. The election script can also easily be modified to be used for any future election.  
+As was requested by the Colorado Board of Elections, an analysis was concluded for the congressional election. 
 
-Modifying the script can greatly benefit the Colorado Board of Elections and aid in the retrieval of data in future elections. The modification can be achieved by  
+The analysis was extended to give a more detailed insight on which county had a higher vote turnout. It also included each candidates separate voting counts. 
+
+Analysing the data by county and by candidate was a great addition, seeing as it provided a more detailed insight on the voters. The election script can furhtermore  easily be modified, so that it can be used to retrieve important data for any future election. 
+
+The Colorado Board of Elections can greatly benefit from having a simple script which can be reused for future elections, as with a few simple modifications, it can reflect the desired results which can then be used to run successful future elections. 
+
+The script can be modified to include not only the separate results by county and candidates, but also be interrelated to show what percentage of each county voted for each candidate. This, as an example, can aid in investing time in running campaigns in counties that have a higher turnout per candidate. 
+
+Additionally, with more information regarding the total population of each county, the script can be modified to reflect the total amount of voters per county and their participation rate. Campaigns can be run to inform more voters of when elections are occuring, to increase the population of each county's participation rate and so the number of votes cast. 
+
+The script can add immense value to the Colorado Board of Elections. It provides essential information which can be used to conduct analysis. The results can easily be achieved by modifying the script in a few steps to showcase desired results. 
+
+Please feel free to reach out if you would like to discuss how the election analysis script can be used to optimize the results in future elections. 
