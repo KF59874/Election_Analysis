@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview 
-A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congression election.
+The Colorado Board of Elections has assigned the task to complete the election audit of a recent local congression election. The process inlcudes the following steps: 
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes. 
@@ -10,7 +10,7 @@ A Colorado Board of Elections employee has given you the following task to compl
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-- Data Source: election_results.csv
+- Data Source: [Data Source](Resources/election_results.csv)
 - Software: Python 3.??.??, Visual Studio Code ????
 
 ## Summary 
