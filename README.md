@@ -25,7 +25,8 @@ The following information has been gathered from conducting the analysis on the 
     - Arapahoe:
         - Percentage of Votes: 6.7% 
         - Number of Votes: 24,801 
-- The county with the largest number of votes: Denver
+- The county with the largest number of votes:
+    - Denver
 - The candidates were:
     - Charles Casper Stockham
         - Percentage of Votes: 23.0% 
