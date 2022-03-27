@@ -1,8 +1,7 @@
-# Election_Analysis
+# Election Analysis
 
-## Project Overview 
-A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congression election.
-
+## Overview of Election Audit 
+The Colorado Board of Elections has assigned the task to complete an election audit of a recent local congression election. The following steps were included to process the analysis:  
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes. 
 3. Calculate the total number of votes each candidate received.
@@ -10,24 +9,41 @@ A Colorado Board of Elections employee has given you the following task to compl
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-- Data Source: election_results.csv
-- Software: Python 3.??.??, Visual Studio Code ????
+- Data Source: [election_results.csv](Resources/election_results.csv)
+- Software: Python 3.10.3, Visual Studio Code 1.65.2
 
-## Summary 
-The analysis of the election show that:
-- There were "??" votes cast in the election.
-- The candidates were 
-    - candidate 1 
-    - g
-    - g
+## Election-Audit Results
+The following information has been gathered from conducting the analysis on the congressional election:
+
+- There were 369,711 votes cast in the election.
+
+- The voter turnout for each county was:
+
+    - Jefferson produced 10.5% of voters, for a total of 38,855 voters.
+    - Denver produced 82.8% of voters, for a total of 306,055 voters.
+    - Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
+
+- The county with the largest voter turnout was:
+    - Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+
+- The candidates were:
+
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
+
 - The candidate results were:
-    - g
-    - g
-    - g
-- The winner of the election was: 
-    - Candidate who received x% of the vote and y number of votes.
 
-## Challenge Overview
+    - Charles Casper Stockham received 23.0% of the vote, for a total of 85,213 votes.
+    - Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
+    - Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
 
-## Challenge Summary 
+- The winner of the election was:
+    - Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
+
+Please see below for a snapshot of the congressional election results. The text version of the election results summary can be found [here](Analysis/election_results.txt).
+
+![Election Results Summary](/Resources/) /../main/assets/images/electrocat.png
+
+## Election-Audit Summary
 
