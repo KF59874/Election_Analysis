@@ -41,5 +41,9 @@ The following information has been gathered from conducting the analysis on the 
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
 
+Please see below for a snapshot of the congressional election results. The text version of the election results summary can be found [here](Analysis/election_results.txt).
+
+![Election Results Summary](Resources/election_results.png)
+
 ## Election-Audit Summary
 
