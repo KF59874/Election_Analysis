@@ -12,44 +12,32 @@ The Colorado Board of Elections has assigned the task to complete an election au
 - Data Source: [election_results.csv](Resources/election_results.csv)
 - Software: Python 3.10.3, Visual Studio Code 1.65.2
 
-## Election Audit Results
+## Election-Audit Results
 The following information has been gathered from conducting the analysis on the congressional election:
 - Total votes cast:     369,711 
 - The voter turnout for each county was:
     - Jefferson:
-        - Percentage:   10.5% 
-        - Total Votes:  38,855
+        - Percentage of Votes: 10.5% 
+        - Number of Votes: 38,855
     - Denver
-        - Percentage:   82.8% 
-        - Total Votes:  306,055
+        - Percentage of Votes: 82.8% 
+        - Number of Votes: 306,055
     - Arapahoe:
-        - Percentage:   6.7% 
-        - Total Votes:  24,801 
+        - Percentage of Votes: 6.7% 
+        - Number of Votes: 24,801 
 - The county with the largest number of votes: Denver
 - The candidates were:
-    - Charles Casper Stockham: 23.0% (85,213)
-    - Diana DeGette: 73.8% (272,892)
-    - Raymon Anthony Doane: 3.1% (11,606)
+    - Charles Casper Stockham
+        - Percentage of Votes: 23.0% 
+        - Number of Votes: 85,213
+    - Diana DeGette
+        - Percentage of votes: 73.8% 
+        - Number of Votes: 272,892
+    - Raymon Anthony Doane
+        - Percentage of Votes: 3.1% 
+        - Number of Votes: 11,606
+- The winner of the election was:
+    - Diana DeGette, who received 73.8% of the total votes, and 272,892 number of votes.
 
-- County with largest number of votes: Denver
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
-
-The analysis of the election show that:
-- There were "??" votes cast in the election.
-- The candidates were 
-    - candidate 1 
-    - g
-    - g
-- The candidate results were:
-    - g
-    - g
-    - g
-- The winner of the election was: 
-    - Candidate who received x% of the vote and y number of votes.
-
-## Challenge Overview
-
-## Challenge Summary 
+## Election-Audit Summary
 
