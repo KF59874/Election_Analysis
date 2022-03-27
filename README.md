@@ -43,7 +43,7 @@ The following information has been gathered from conducting the analysis on the 
 
 Please see below for a snapshot of the congressional election results. The text version of the election results summary can be found [here](Analysis/election_results.txt).
 
-![Election Results Summary](/Resources/) /../main/assets/images/electrocat.png
+![Election Results Summary](/images/election_results.png)
 
 ## Election-Audit Summary
 
