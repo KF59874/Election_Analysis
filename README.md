@@ -47,9 +47,7 @@ Please see below for a snapshot of the congressional election results. The text 
 
 ## Election-Audit Summary
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-As was requested by the Colorado Board of Elections, an analysis was concluded for the congressional election. 
+As requested by the Colorado Board of Elections, an analysis was concluded for the congressional election. 
 
 The analysis was extended to give a more detailed insight on which county had a higher vote turnout. It also included each candidates separate voting counts. 
 
