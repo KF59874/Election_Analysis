@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of Election Audit 
-The Colorado Board of Elections has assigned the task to complete an election audit of a recent local congression election. The following steps were included to process the analysis:  
+The Colorado Board of Elections has assigned the task to complete an election audit of a recent local congression election. The following steps conducted to process the analysis:  
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes. 
 3. Calculate the total number of votes each candidate received.
@@ -47,9 +47,9 @@ Please see below for a snapshot of the congressional election results. The text 
 
 ## Election-Audit Summary
 
-As requested by the Colorado Board of Elections, an analysis was concluded for the congressional election. The analysis initially included only each candidate's voting counts. It was extended to to also reflect the result by county. Analysing the data by county was a great addition, seeing as it provided a more detailed insight on the voters. 
+As requested by the Colorado Board of Elections, an analysis was conducted for the congressional election. The analysis initially included only each candidate's voting counts. It was extended to also reflect the result by county. Analysing the data by county was a great addition, seeing as it provided a more detailed insight on the voters. 
 
-The election script used in this analysis can easily be modified to reflect furhter insight. With some modifications, it can also be used to retrieve data for any future election. The Colorado Board of Elections can greatly benefit from having an election anaylsis script, seeing as it can be reused for future elections and provide desired results. 
+The election script used in this analysis can easily be modified to reflect furhter insight. With some modifications, it can also be used to retrieve data for any future elections. The Colorado Board of Elections can greatly benefit from having an election anaylsis script, seeing as it can be reused for future elections and provide desired results. 
 
 As an example, the script can be modified to include not only the separate results by county and candidates, but instead it can be interrelated to show what percentage of each county voted for each candidate. Similarily, with more information regarding the total population of each county, the script can be adjusted to reflect the total amount of voters per county and their participation rate. 
 
