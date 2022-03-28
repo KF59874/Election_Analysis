@@ -47,17 +47,11 @@ Please see below for a snapshot of the congressional election results. The text 
 
 ## Election-Audit Summary
 
-As requested by the Colorado Board of Elections, an analysis was concluded for the congressional election. 
+As requested by the Colorado Board of Elections, an analysis was concluded for the congressional election. The analysis initially included only each candidate's voting counts. It was extended to to also reflect the result by county. Analysing the data by county was a great addition, seeing as it provided a more detailed insight on the voters. 
 
-The analysis was extended to give a more detailed insight on which county had a higher vote turnout. It also included each candidates separate voting counts. 
+The election script used in this analysis can easily be modified to reflect furhter insight. With some modifications, it can also be used to retrieve data for any future election. The Colorado Board of Elections can greatly benefit from having an election anaylsis script, seeing as it can be reused for future elections and provide desired results. 
 
-Analysing the data by county and by candidate was a great addition, seeing as it provided a more detailed insight on the voters. The election script can furhtermore  easily be modified, so that it can be used to retrieve important data for any future election. 
-
-The Colorado Board of Elections can greatly benefit from having a simple script which can be reused for future elections, as with a few simple modifications, it can reflect the desired results which can then be used to run successful future elections. 
-
-The script can be modified to include not only the separate results by county and candidates, but also be interrelated to show what percentage of each county voted for each candidate. This, as an example, can aid in investing time in running campaigns in counties that have a higher turnout per candidate. 
-
-Additionally, with more information regarding the total population of each county, the script can be modified to reflect the total amount of voters per county and their participation rate. Campaigns can be run to inform more voters of when elections are occuring, to increase the population of each county's participation rate and so the number of votes cast. 
+As an example, the script can be modified to include not only the separate results by county and candidates, but instead it can be interrelated to show what percentage of each county voted for each candidate. Similarily, with more information regarding the total population of each county, the script can be adjusted to reflect the total amount of voters per county and their participation rate. 
 
 The script can add immense value to the Colorado Board of Elections. It provides essential information which can be used to conduct analysis. The results can easily be achieved by modifying the script in a few steps to showcase desired results. 
 
