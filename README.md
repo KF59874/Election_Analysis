@@ -53,6 +53,6 @@ The election script used in this analysis can easily be modified to reflect furh
 
 As an example, the script can be modified to include not only the separate results by county and candidates, but instead it can be interrelated to show what percentage of each county voted for each candidate. Similarily, with more information regarding the total population of each county, the script can be adjusted to reflect the total amount of voters per county and their participation rate. 
 
-The script can add immense value to the Colorado Board of Elections. It provides essential information which can be used to conduct analysis. The results can easily be achieved by modifying the script in a few steps to showcase desired results. 
+The script can add immense value to the Colorado Board of Elections. It provides essential information which can be used to conduct future election decisions. The script can easily be adjusted to showcase desired results which will aid in conducting election analysis. 
 
-Please feel free to reach out if you would like to discuss how the election analysis script can be used to optimize the results in future elections. 
+If you are interested in learning more about the benefits of utilizing the script in your election analysis and how it can be used to optimize your results, please feel free to reach out.
